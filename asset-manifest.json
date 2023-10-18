@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/livereactwebsite/static/css/main.16919722.css",
+    "main.js": "/livereactwebsite/static/js/main.a7f12e8f.js",
+    "static/js/787.11360b98.chunk.js": "/livereactwebsite/static/js/787.11360b98.chunk.js",
+    "static/media/software.jpg": "/livereactwebsite/static/media/software.2e328c543490398289b6.jpg",
+    "static/media/digital-marketing.png": "/livereactwebsite/static/media/digital-marketing.a66a5ccd29129e3865bf.png",
+    "static/media/marketing.png": "/livereactwebsite/static/media/marketing.495c52f52bed70915bc7.png",
+    "static/media/about2.jpg": "/livereactwebsite/static/media/about2.7263a13b05d43688c48c.jpg",
+    "static/media/app.png": "/livereactwebsite/static/media/app.d3709d9f0c2ec9d7c609.png",
+    "static/media/image1.PNG": "/livereactwebsite/static/media/image1.ca4271d821278cf45f86.PNG",
+    "static/media/android.png": "/livereactwebsite/static/media/android.431e49069f3658dcdb71.png",
+    "static/media/web.png": "/livereactwebsite/static/media/web.f9fd01979c4613762166.png",
+    "index.html": "/livereactwebsite/index.html",
+    "main.16919722.css.map": "/livereactwebsite/static/css/main.16919722.css.map",
+    "main.a7f12e8f.js.map": "/livereactwebsite/static/js/main.a7f12e8f.js.map",
+    "787.11360b98.chunk.js.map": "/livereactwebsite/static/js/787.11360b98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16919722.css",
+    "static/js/main.a7f12e8f.js"
+  ]
+}
